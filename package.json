@@ -1,0 +1,29 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript setup",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "live-server": "^1.2.1",
+    "systemjs-builder": "^0.16.15",
+    "systemjs": "^3.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fruitjs/typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Vineet Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fruitjs/typescript/issues"
+  },
+  "homepage": "https://github.com/fruitjs/typescript#readme"
+}
